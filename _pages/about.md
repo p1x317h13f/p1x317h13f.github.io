@@ -45,7 +45,7 @@ We will increasingly need to predict when and how AI systems will pose a threat.
 [^4]: Member organizations at the time included Meta, Microsoft, Google, Anthropic, OpenAI, and Amazon. Example: [Foundational Security Practices (2024)](https://www.frontiermodelforum.org/updates/issue-brief-foundational-security-practices/).
 [^5]: As a consultant with Duco Experts, Dialectica, and others.
 
-Select Publications 
+Selected Publications 
 ------
 - [*Survey of Search Engine Safeguards and their Applicability for AI*](https://cltc.berkeley.edu/publication/survey-of-search-engine-safeguards-and-their-applicability-for-ai/)
 - [*Intolerable Risk Threshold Recommendations for Artificial Intelligence*](https://arxiv.org/abs/2503.05812)
