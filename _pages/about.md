@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Krystal, I am currently working as a Non-Resident Research Fellow at [UC Berkeley’s Center for Long-Term Cybersecurity, AI Security Initiative](https://cltc.berkeley.edu/program/ai-security-initiative/), and a Co-Founder and Research Director of [Black in AI Safety and Ethics](https://www.baseresearch.org/). 
+My name is Krystal, I am currently working as a Non-Resident Research Fellow at [UC Berkeley’s Center for Long-Term Cybersecurity, AI Security Initiative](https://cltc.berkeley.edu/program/ai-security-initiative/), and as a Co-Founder and Research Director of [Black in AI Safety and Ethics](https://www.baseresearch.org/). 
 
 Overview
 ------
